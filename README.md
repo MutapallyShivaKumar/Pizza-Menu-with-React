@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Depolyed Pizza Menu with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Deployed with [Netlify](https://6664844134f1030292d69173--pizza-menu-with-react1.netlify.app/).
 
 ## Available Scripts
 
